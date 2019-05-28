@@ -1,2 +1,2 @@
-# 30-Days-of-Code
-HackerRank C# Tutorials
+# hello-world 
+First exercise for using github.
